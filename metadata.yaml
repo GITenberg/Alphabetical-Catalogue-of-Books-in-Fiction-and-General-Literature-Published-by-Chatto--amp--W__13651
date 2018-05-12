@@ -1,0 +1,29 @@
+_repo: Alphabetical-Catalogue-of-Books-in-Fiction-and-General-Literature-Published-by-Chatto--amp--W__13651
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Chatto & Windus (Firm)
+    aliases:
+    - Windus, Chatto &
+    - Chatto and Windus (Firm)
+    gutenberg_agent_id: '6326'
+    url: http://www.gutenberg.org/2009/agents/6326
+description: ''
+gutenberg_issued: '2004-10-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13651'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Chatto & Windus (Firm) -- Catalogs'
+- !lcsh 'Publishers'' catalogs -- England -- London'
+- !lcc 'Z'
+title: Alphabetical Catalogue of Books in Fiction and General Literature Published
+  by Chatto & Windus, Sept. 1905
+url: http://www.gutenberg.org/ebooks/13651
